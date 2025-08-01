@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="back">Retour</string>
+    <string name="bbc_news">BBC Actualités</string>
+    <string name="bbc_favorites">BBC Favoris</string>
+    <string name="added_to_favorites">Ajouté aux favoris</string>
+    <string name="undo">Annuler</string>
+    <string name="removed_from_favorites">Supprimé des favoris</string>
+    <string name="already_in_favorites">Déjà dans les favoris</string>
+    <string name="restored">Restauré</string>
+    <string name="search_articles">Rechercher des articles...</string>
+</resources>

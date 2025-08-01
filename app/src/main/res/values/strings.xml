@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">FinalProject</string>
+    <string name="back">Back</string>
+    <string name="bbc_news">BBC News</string>
+    <string name="bbc_favorites">BBC Favorites</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="undo">Undo</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="already_in_favorites">Already in favorites</string>
+    <string name="restored">Restored</string>
+    <string name="search_articles">Search articles...</string>
 </resources>
